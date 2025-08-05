@@ -90,7 +90,7 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = [""https://telegra.ph/file/38d0a70e49a7f1b5fea6a.jpg"]",
+START_IMG_URL = ["https://telegra.ph/file/38d0a70e49a7f1b5fea6a.jpg",
                  "https://telegra.ph/file/42be75aaebbfb22fde828.jpg",
                  "https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg"]
     
