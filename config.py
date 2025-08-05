@@ -90,16 +90,16 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://files.catbox.moe/jk0awb.jpg",
-                 "https://files.catbox.moe/rm38l9.jpg",
+START_IMG_URL = [""https://telegra.ph/file/38d0a70e49a7f1b5fea6a.jpg"]",
+                 "https://telegra.ph/file/42be75aaebbfb22fde828.jpg",
                  "https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/87f680aead03443f291b0.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/dc4c053c5ec8ab2acd2c9.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/edd388a42dd2c499fd868.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
+STATS_IMG_URL = "https://mallucampaign.in/images/img_1694847936.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/81ff412673c940f297d9b.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/492a3bb2e880d19750b79.jpg"
 STREAM_IMG_URL = "https://graph.org/file/ff2af8d4d10afa1baf49e.jpg"
 SOUNCLOUD_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
